@@ -5,6 +5,7 @@
 </head>
 <body>
     <h1>List Biodata</h1>
+    <a href="<?php echo base_url('biodata/input/'); ?>">Tambah Biodata</a>
     <table>
         <thead>
             <tr>
